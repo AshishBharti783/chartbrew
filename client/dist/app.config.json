@@ -1,0 +1,10 @@
+{
+  "apps" : [
+    {
+      "name": "cbc-client",
+      "script": "npx",
+      "interpreter": "none",
+      "args": "serve -s . -p 4018"
+    }
+  ]
+}
